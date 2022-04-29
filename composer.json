@@ -43,8 +43,8 @@
     }
   },
   "require": {
-    "php": ">=5.5",
-    "doctrine/dbal": "2.*",
+    "php": ">=8.0",
+    "doctrine/dbal": "3.*",
     "greenlion/php-sql-parser": "^4.0",
     "doctrine/orm": "2.*",
     "ci/restclientbundle": "^2.0.2"
